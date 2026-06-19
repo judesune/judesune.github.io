@@ -1,4 +1,4 @@
-## Olá! Me chamo Juliano, atualmente cursante do terceiro semestre de Análise e Desenvolvimento de Sistemas na Unicesumar. Procuro desenvolvimento e me tornar um Develoer FullStack. Faça parte da minha jornada! [Entre em contato aqui!](https://judesune.github.io)
+## Olá! Me chamo Juliano, atualmente cursante do terceiro semestre de Análise e Desenvolvimento de Sistemas na Unicesumar. Procuro aprendizado e me tornar um Develoer FullStack. Faça parte da minha jornada! [Entre em contato aqui!](https://judesune.github.io)
 
 <!--
 **judesune/judesune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
